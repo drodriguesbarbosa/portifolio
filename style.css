@@ -1,0 +1,174 @@
+.textologo {
+   color: black;
+   font-family: 'Bevan', sans-serif;
+   
+}
+
+.card-img-top {
+    text-align: center;
+    height: 80px;
+    width: 100%;
+
+}
+
+.header {
+    background: black;
+    color: white;
+    width: 50%;
+    padding: 20px;
+}
+.banner-inicio {
+    background: white;
+    height: 190px;
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+        
+}
+.img-fluid {
+    display: flex;
+	justify-content: center;
+	align-items: center;    
+
+}
+
+.developer {
+    height: 200px;
+    width: 20%;
+    float: left;
+    background-color: none;
+    margin-left: 20%;
+    margin-top: 5%;
+
+}
+
+.container {
+    margin-top: 5%;
+    margin-bottom: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: none;
+
+}
+
+.row {
+    height: 115px;
+    width: 100%;  
+    margin-bottom: 10%; 
+}
+
+.divimg {
+    width: 100%;
+    height: 200px;
+    background-color: none;
+    float: left;
+    margin-right: none;
+    margin-left: 30%;
+    margin-top: 8%;
+    
+}
+
+.divtxt {
+    width: 100%;
+    height: 200px;
+    background-color: none;
+    float: left;
+    margin-right: none;
+    margin-left: -30%;
+    margin-top: 8%;
+
+}
+
+.divimgdrt {
+    width: 150%;
+    background-color: white;
+    
+}
+
+
+
+.divtxtdir {
+    width: 100%;
+    height: 200px;
+    background-color: none;
+    float: left;
+    margin-right: none;
+    margin-left: 30%;
+    margin-top: 8%;
+
+}
+
+.pharmacy {
+    height: 200px;
+    width: 30%;
+    float: left;
+    background-color: none;
+    margin-left: 25%;
+    margin-top: 5%;
+}
+
+
+.links_direita {
+    list-style: none;
+    text-align: right;
+    float: right;
+    display:flex;
+    background-color: none;
+}
+
+.github_modify {
+    color: black;
+    width: 29%;
+
+}
+
+.linkedin_modify {
+    color: blue;
+    width: 29%;
+}
+
+.copyright {
+    text-align: center;
+}
+
+.links_esquerda {
+    background-color: none;
+    list-style: none;
+    text-align: left;
+    float: left;
+
+}
+
+.icone_logo {
+    display: flex;
+    box-align: center;
+    width: 10%;
+    height: 10px;
+    background-color: none;
+    margin-left: 30%;
+   
+}
+
+CSS
+p {
+  font-size: clamp(1em, 1em + 1vw, 1.5em);
+}
+
+span.navbar-toggler-icon {
+    background-color: rgba(171, 218, 218, 0.603);
+}
+p {
+  font-size: clamp(1em, 1em + 1vw, 1.5em);
+}
+
+div.row {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+
+}

@@ -1,2 +1,4 @@
-# portifolio
-Desenvolvimento de página a partir de CSS e HTML como Portifólio
+# Projeto criado para testar funcionalidades 
+Utilizado para testeas habilidades com branch
+Configurações de CSS
+Montagem HTML
